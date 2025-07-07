@@ -8,3 +8,4 @@ Console.WriteLine("1");
 // Test app-main dependency build - Mon Jul  7 12:53:12 +07 2025
 // New commit to test build pipeline - $(date)
 // Second commit test - July 7, 2025 3:17 PM
+Console.WriteLine("Pipeline test commit lần 3 - " + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"));
